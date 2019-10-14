@@ -1,0 +1,433 @@
+
+@media (min-width:992px) and (max-width: 1199px) {
+    .ready_content h2{
+        font-size: 30px;
+    }
+	
+}
+@media (min-width:767px) and (max-width:991px){
+    body{
+        font-size:12px;
+    }
+    section{
+        padding: 50px 0;
+    }
+    .heading{
+        padding-bottom: 30px;
+    }
+    .heading h1{
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+    .heading p{
+        font-size: 12px;
+        padding: 0 80px 0 80px;
+    }
+    .navbar-nav{
+        background: #fff;
+        text-align: center;
+    }
+    .navbar-nav li a{
+        color: #333;
+        line-height: 20px;
+    }
+    nav.navbar-fixed ul li a{
+        line-height: 20px;
+    }
+    .about_right_part{
+        padding-left: 15px;
+    }
+    .about_right_part h2{
+        font-size: 26px;
+        padding-bottom: 18px;
+    }
+    .about_right_part p{
+        padding: 8px 0 12px 0;
+    }
+    #about{
+        padding: 70px 0 50px 0;
+    }
+    .service_item h4{
+        font-size: 18px;
+        padding-bottom: 10px;
+    }
+    .ready_content{
+        padding: 50px 0 50px 0;
+    }
+    .ready_content h2{
+        font-size: 20px;
+    }
+    .order_bt{
+        margin-top: 48px;
+    }
+    .order_bt a{
+        font-size: 12px;
+    }
+    .iso-nav ul li{
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+    .hover_content h4{
+        font-size: 14px;
+    }
+    .iso-item:hover img {
+        transform: scale(1.5) translateX(-20px);
+    }
+    .accordion_active {
+        display:none;
+    }
+    .acc-btn h1{
+        font-size: 13px;
+    }
+    #counter_part{
+        padding: 50px 0 0 0 ;
+    }
+    #counter_header{
+        padding: 50px 0;
+    }
+    #counter_header .heading::after {
+        bottom: -70px;
+    }
+    .counter_item{
+        margin-bottom: 50px;
+    }
+    .counter_item h4{
+        font-size: 16px;
+    }
+    .counter_item span{
+        font-size: 40px;
+    }
+    .progressbar_left_part h2{
+        font-size: 16px;
+    }
+    .progressbar_right_part h3{
+        font-size: 24px;
+        text-align: center;
+    }
+    .progressbar_right_part p{
+        font-size: 12px;
+        text-align: center;
+        padding: 0 100px 20px 100px;
+    }
+    .progressbar_right_item h5{
+        font-size: 16px;
+    }
+    .team_slider_item h4{
+        font-size: 18px;
+    }
+    .team_slider_item p{
+        font-size: 12px;
+    }
+    .tm_item_info h3{
+        font-size: 22px;
+    }
+    .tm_item_info p{
+        font-size: 12px;
+    }
+    .tm_item_info img{
+        top: 35px;
+    }
+    .tm_item_info h3{
+        padding: 25px 10px 10px 190px;
+    }
+    .tm_name{
+        padding: 0px 10px 25px 70%;
+    }
+    #pricng .display-2 {
+        font-size: 42px;
+        letter-spacing: -2px;
+    }
+    #pricng .display-2 .currency{
+        top: -20px;
+        font-size: 26px;
+    }
+    #pricng .card{
+        padding: 20px 0;
+    }
+    #pricng .card .card-title{
+        font-size: 18px;
+    }
+    #pricng .card .list-group-item{
+        padding: 5px;
+    }
+    #pricing{
+        padding: 50px 0 20px 0;
+    }
+    #pricing .card{
+        margin-bottom: 30px;
+    }
+    #pricing .display-2{
+        font-size: 4rem;
+        letter-spacing: -4px;
+    }
+    .footer_left_part .footer_left_info{
+        margin-bottom: 15px;
+    }
+    .footer_left_part .footer_left_info h3 {
+        padding-left: 40px;
+        font-size: 13px;
+        padding-bottom: 10px;
+    }
+    .footer_left_part .footer_left_info h3::after {
+        left: 40px;
+    }
+    .footer_left_part .footer_left_info p{
+        padding-left: 40px;
+        padding-top: 5px;
+    }
+    .footer_right_info h3{
+        font-size: 13px;
+    }
+    .form-control{
+        font-size: 11px;
+        margin-bottom: 16px;
+    }
+    .textarea{
+        height: 122px;
+    }
+    .submit input{
+        padding: 6px 12px;
+        font-size: 10px;
+    }
+    footer{
+        padding:50px 0;
+    }
+    .footer_social{
+        padding-top: 40px;
+    }
+    .footer_social p{
+        padding-top: 10px;
+        font-size: 11px;
+    }
+
+}	
+@media (min-width:319px) and (max-width: 767px) {
+    body{
+        font-size: 12px;
+        letter-spacing: 0;
+    }
+    
+    section{
+        padding: 50px 0;
+    }
+    .heading{
+        padding-bottom: 30px;
+    }
+    .heading h1{
+        font-size: 26px;
+        padding-bottom: 15px;
+    }
+    .navbar-nav{
+        background: #fff;
+        text-align: center;
+    }
+    .navbar-nav li a{
+        color: #333;
+        line-height: 20px;
+    }
+    nav.navbar-fixed ul li a{
+        line-height: 20px;
+    }
+    .heading p{
+        padding: 0;
+        font-size: 12px;
+    }
+    .banner_info h4{
+        font-size: 10px;
+    }
+    .banner_info h1{
+        font-size: 70px;
+    }
+    .banner_info p{
+        font-size: 12px;
+    }
+    .banner_button li{
+        margin-left: 0;
+    }
+    .banner_button li:first-child{
+        margin-bottom: 25px;    
+    }
+    #about{
+        padding: 70px 0 50px 0;
+    }
+    .about_left_part::before {
+        display: none;
+    }
+    .about_overlay{
+        width: 100%;
+        left: 0;
+    }
+    .about_right_part{
+        padding: 0 15px;;
+        text-align: center;
+    }
+    .about_right_part span{
+        font-size: 12px;
+    }
+    .about_right_part p{
+        font-size: 12px;
+        padding: 15px 0 30px 0;
+    }
+    .about_right_part h2{
+        font-size: 26px;
+        padding-bottom: 20px;
+        padding-top: 50px;
+    }
+    .service_item h4{
+        font-size: 20px;
+    }
+    .service_item p{
+        font-size: 12px;
+    }
+    .iso-nav ul li{
+        margin-bottom: 18px;
+        font-size: 12px;
+    }
+    .ready_content h2{
+        font-size: 20px;
+        padding-left: 0;
+    }
+    .ready_content {
+        text-align: center !important;
+        padding: 50px 0 30px 0;
+    }
+    .order_bt{
+        text-align: center !important;
+        margin-top: 0;
+        margin-bottom: 50px;
+    }
+    .acc-btn h1{
+        font-size: 14px;
+    }
+    .acc-container{
+        margin-bottom: 30px;
+    }
+    .counter_item{
+        margin: 30px 0;
+    }
+    #counter_header{
+        padding: 50px 0;
+    }
+    
+    #counter_header .heading::after {
+        left: 45%;
+        bottom: -65px;
+    }
+    .progressbar_left_part h2{
+        font-size: 14px;
+    }
+    .progressbar_right_part h3{
+        font-size: 20px;
+        padding-top: 30px;
+    }
+    .progressbar_right_part p{
+        font-size: 12px;
+    }
+    .progressbar_right_item{
+        margin-top: 30px;
+    }
+    .tm_item_info img{
+        top: 18px;
+        left: 18%;
+    }
+    .tm_item_info h3{
+        padding: 155px 0 0 0;
+        text-align: center;
+    }
+    .tm_item_info p{
+        text-align: center;
+        padding: 0 5px 0 5px;
+    }
+    .tm_name{
+        padding: 0px 10px 50px 20px;
+        font-size: 14px;
+    }
+    #pricing{
+        padding: 50px 0 20px 0;
+    }
+    #pricing .card{
+        margin-bottom: 30px;
+    }
+    #pricng .card{
+        margin-top: 30px;
+    }
+    #pricing .display-2{
+        font-size: 4rem;
+        letter-spacing: -4px;
+    }
+    .slick-initialized .slick-slide img{
+        width: 100%;
+    }
+    footer{
+        padding: 50px 0;
+    }
+    .footer_social{
+        padding-top: 40px;
+    }
+		
+}
+
+
+@media (width:767px) {
+    .about_right_part h2{
+        padding-top: 0;
+    }
+    .ready_content{
+        padding: 30px 0 30px 0;
+    }
+    .ready_content h2{
+        font-size: 17px;
+    }
+    .order_bt{
+        margin-top: 28px;
+        margin-bottom: 0;
+    }
+    .team_slider_item .social_icon{
+        padding-bottom: 20px;
+    }
+    .team_slider_item_info ul li a{
+        font-size: 10px;
+    }
+    .team_slider_item_info ul li a i{
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 10px;
+    }
+    .tm_item_info img{
+        left: 33%;
+    }
+    #pricing .display-2 {
+        font-size: 24px;
+        letter-spacing: -1px;
+    }
+    #pricing .display-2 .period {
+        font-size: 12px;
+    }
+    #pricing .display-2 .currency {
+        font-size: 22px;
+        top: -10px;
+    }
+    #pricing .card{
+        padding: 10px;
+    }
+    #pricing .card .list-group-item{
+        padding: 0 8px 0 8px;
+    }
+    #pricing .card .card-title{
+        font-size: 18px;
+    }
+    #pricing .btn{
+        padding: 8px 14px;
+        font-size: 10px;
+    }
+    .footer_left_part .footer_left_info h3::after {
+        left: 30px;
+    }
+    .footer_left_part .footer_left_info h3{
+        padding-left: 30px;
+    }
+    .footer_left_part .footer_left_info p{
+        padding-left: 30px;
+    }
+}
